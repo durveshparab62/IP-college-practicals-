@@ -2,9 +2,9 @@ Practical 1: Introduction to Programming
 
 
 # Q1. Variable creation and naming
-name = "Shreya"
+name = "durvesg"
 age = 18
-marks = 85.5
+marks = 90.5
 city = "Mumbai"
 print(name, age, marks, city)
 # Variable names cannot start with digits, contain hyphens, or use keywords.
